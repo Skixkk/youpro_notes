@@ -3,8 +3,11 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="notes"
-                 name="notes"
+                 name="Notes"
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Tutorial.md">
+        <toc-element topic="Comuni（可优笔记）小程序使用说明书（v0-0-2）.md"/>
+    </toc-element>
 </instance-profile>
