@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="3dff96db">
+        <description>Created after removal of "Required_materials" from Notes</description>
+        <accepts>所需材料.html</accepts>
+    </rule>
+    <rule id="37186078">
+        <description>Created after removal of "Required materials" from Notes</description>
+        <accepts>Required-materials.html</accepts>
+    </rule>
+    <rule id="58f3d9e0">
+        <description>Created after removal of "material" from Notes</description>
+        <accepts>material.html</accepts>
+    </rule>
+    <rule id="62ef6052">
+        <description>Created after removal of "company" from Notes</description>
+        <accepts>company.html</accepts>
+    </rule>
+</rules>

@@ -2,7 +2,6 @@
 
 [首页](https://youupro.xyz/)
 
-- [](Comuni（可优笔记）小程序使用说明书（v0-0-2）.md)
 - [](Watt-Toolkit下载-加速GitHub教程.md)
 
 ## Star History
