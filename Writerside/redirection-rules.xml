@@ -22,4 +22,20 @@
         <description>Created after removal of "company" from Notes</description>
         <accepts>company.html</accepts>
     </rule>
+    <rule id="2600cd3">
+        <description>Created after removal of "APP软件开发合同" from Notes</description>
+        <accepts>APP软件开发合同.html</accepts>
+    </rule>
+    <rule id="73d7161b">
+        <description>Created after removal of "软件开发合同" from Notes</description>
+        <accepts>软件开发合同.html</accepts>
+    </rule>
+    <rule id="25f0c9d9">
+        <description>Created after removal of "软件项目合同" from Notes</description>
+        <accepts>软件项目合同.html</accepts>
+    </rule>
+    <rule id="150ef066">
+        <description>Created after removal of "contract" from Notes</description>
+        <accepts>contract.html</accepts>
+    </rule>
 </rules>

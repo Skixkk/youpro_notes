@@ -7,11 +7,6 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
-    <toc-element topic="contract.md">
-        <toc-element topic="APP软件开发合同.md"/>
-        <toc-element topic="软件开发合同.md"/>
-        <toc-element topic="软件项目合同.md"/>
-    </toc-element>
     <toc-element topic="Tutorial.md">
         <toc-element topic="Watt-Toolkit下载-加速GitHub教程.md"/>
         <toc-element topic="基于-RAG-与大模型的大学生职业规划智能体-Agent-系统架构.md"/>
